@@ -59,7 +59,7 @@ California offers benefits for the families and survivors of veterans, including
 ## State Parks Pass
 California veterans are eligible for a free California State Parks pass, providing access to all state parks.
 
-- [California State Parks Pass for Veterans](https://www.parks.ca.gov/?page_id=1044) – Veterans with a service-connected disability or a 100% disability rating are eligible for free access to all state parks.
+- [California State Parks Pass for Veterans](https://www.parks.ca.gov/?page_id=30958) – Veterans with a service-connected disability or a 50% disability rating are eligible for free access to all state parks.
 - [National Parks Access Pass for Veterans](https://www.nps.gov/planyourvisit/passes.htm) – Free lifetime access to national parks for veterans with a service-connected disability.
 
 ---
